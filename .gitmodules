@@ -1,0 +1,15 @@
+[submodule "tbsense-backend"]
+	path = tbsense-backend
+	url = git@github.com:MasLazu/tbsense-backend.git
+[submodule "tbsense-frontend"]
+	path = tbsense-frontend
+	url = git@github.com:MasLazu/tbsense-frontend.git
+[submodule "tbsense-backend-ai-training-service"]
+	path = tbsense-backend-ai-training-service
+	url = git@github.com:MasLazu/tbsense-backend-ai-training-service.git
+[submodule "tbsense-mobile"]
+	path = tbsense-mobile
+	url = git@github.com:MhdAmir/tbsense-mobile.git
+[submodule "tbsense-csv-migrator"]
+	path = tbsense-csv-migrator
+	url = git@github.com:MasLazu/tbsense-csv-migrator.git
