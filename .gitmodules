@@ -13,3 +13,6 @@
 [submodule "tbsense-csv-migrator"]
 	path = tbsense-csv-migrator
 	url = git@github.com:MasLazu/tbsense-csv-migrator.git
+[submodule "tbsense-hardware"]
+	path = tbsense-hardware
+	url = git@github.com:MhdAmir/tbsense-hardware.git
