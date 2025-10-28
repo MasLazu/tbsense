@@ -32,6 +32,7 @@ tbsense-backend-ai-training-service/ # Python AI training REST API
 tbsense-csv-migrator/      # Go CSV migrator for database seeding
 tbsense-frontend/          # React web dashboard (SPA)
 tbsense-mobile/            # Flutter mobile app for field monitoring
+tbsense-hardware/          # Hardware firmware and related resources
 assets/                    # System design and images
 ```
 
